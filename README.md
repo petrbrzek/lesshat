@@ -20,7 +20,11 @@ README.md file is automatically generated.
 
 ---
 ## Intro
+Why LESS Hat? In August 2012, while we were developing and extending [CSS Hat](www.csshat.com) for LESS we needed universal mixins, but unfortunately none of available were good enough that would satisfy our needs. That’s the reason why we created new custom ones on our own, which have become almost the most popular mixin library for the whole LESS CSS. 
 
+After a year, there is a new 2.0 version that brings robust workflow for editing, testing and creating mixins.
+
+Meet the best mixins in the world. Thanks to the LESS Hat 2.0 is LESS CSS finally usable for something.
 
 ### Features
 * Configurable – You can turn off/on which browser... TODO
